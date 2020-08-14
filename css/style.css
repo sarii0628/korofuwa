@@ -148,7 +148,7 @@ p:nth-of-type(2) {
 	text-align: center;
 	align-items: center;
 	display: flex;
-	flex-direction: ;
+	flex-direction: column;
 	justify-content: center;
 }
 .showy {
